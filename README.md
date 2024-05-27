@@ -1,0 +1,1 @@
+I Create a To-Do List web application using HTML, CSS, JS. Users Can easily create, save, and organize their daily tasks. This App simplifies task management and provides a convenient way to track and prioritize tasks.
